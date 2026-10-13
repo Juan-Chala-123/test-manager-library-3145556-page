@@ -5,6 +5,11 @@
 
 Este repositorio es el **sitio público estático** de presentación de *Manager Library*; no habla con la API. **Empieza vacío a propósito**: se construye en el fork de cada aprendiz.
 
+## Desarrollo
+
+El sitio no depende de Node ni de la API. Abre `index.html` directamente en el navegador o sírvelo
+con cualquier servidor estático. En Compose se publica como un contenedor Nginx independiente.
+
 ## Instrucciones
 
 Cada aprendiz debe **crear el fork** de los seis repositorios del proyecto y **resolver el proyecto
